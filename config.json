@@ -1,0 +1,9 @@
+{
+  "name": "Moj_prvi_repo",
+  "version": "1.0.0",
+  "description": "My first repository - configuration file",
+  "settings": {
+    "language": "en",
+    "encoding": "UTF-8"
+  }
+}
