@@ -12,8 +12,11 @@ Poštovani,
 
 pozivajući se na Vaše pismo/naputak od [datum naputka], očitujem se kako slijedi i podnosim sljedeće zahtjeve:
 
+(0) Naglasak na hitnost i maksimalnu oštrinu  
+Ovaj podnesak sastavljen je u maksimalno oštrom, ali procesno dopuštenom tonu. Očekujem hitno postupanje uz punu težinu dokumentiranih životnih rizika.
+
 (1) Nema povlačenja tužbe  
-Ne povlačim tužbu. Sudski naputak ne može zamijeniti potpuno utvrđivanje činjeničnog stanja niti pravno održivu ocjenu dokaza. Preporuka za povlačenje tužbe procesno nije prikladna za rješavanje materijalno-pravnih pitanja sve dok ključne činjenice i rizici nisu u potpunosti razjašnjeni i pravilno vrednovani.
+Ne povlačim tužbu. Sudski naputak ne može zamijeniti potpuno utvrđivanje činjeničnog stanja niti pravno održivu ocjenu dokaza. Preporuka za povlačenje tužbe procesno nije prikladna za rješavanje materijalno-pravnih pitanja sve dok ključne činjenice i rizici nisu u potpunosti razjašnjeni i pravilno vrednovani. Svaki daljnji poziv na povlačenje smatram procesno neprihvatljivim.
 
 (2) Ključni prigovor: pogrešno sagledavanje dokumentiranog životno ugrožavajućeg rizičnog kompleksa (status epilepticus / SUDEP)  
 Ocjena ne prepoznaje dokumentirani, u spisima evidentirani životno ugrožavajući rizični kompleks (status epilepticus / SUDEP, događaji reanimacije) te nužni intervencijski i nadzorni potreban nedopušteno svodi na puku „prisutnost“. Takvo pojednostavljivanje je metodološki i pravno neodrživo, jer zanemaruje ili umanjuje stvarni potreban odgovor na akutna, po život opasna stanja – osobito tijekom noći.  
